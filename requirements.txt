@@ -1,6 +1,8 @@
 jupyter 
 ipykernel
 
+mglearn
+
 numpy
 scipy
 matplotlib
